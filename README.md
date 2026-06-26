@@ -1,3 +1,2 @@
-# new-repo2
+# Zen Studio
 
-I will think later what to store in this repo
